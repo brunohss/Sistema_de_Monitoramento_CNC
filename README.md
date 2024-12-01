@@ -75,26 +75,20 @@ Monitorar o desempenho e o estado das máquinas CNC em tempo real, fornecendo da
 
 ## **Aplicações Futuras**
 
-# **Manutenção Preditiva:** 
-Uso de análise avançada para prever falhas antes que ocorram.
-# **Integração com Nuvem:**
-Armazenamento centralizado e análise em larga escala.
-# **Expansão:**
-Suporte a outros tipos de máquinas industriais.
+- **Manutenção Preditiva:** Uso de análise avançada para prever falhas antes que ocorram.
+- **Integração com Nuvem:** Armazenamento centralizado e análise em larga escala.
+- **Expansão:** Suporte a outros tipos de máquinas industriais.
 
 ## **Diferenciais**
 
-# **Monitoramento em Tempo Real:* 
-Atualizações instantâneas dos dados das máquinas.
-# **Interface Web Intuitiva:*
-Visualização simples e acessível em qualquer navegador.
-# **Escalabilidade:*
-Suporte para múltiplas máquinas CNC conectadas ao mesmo sistema.
+- **Monitoramento em Tempo Real:** Atualizações instantâneas dos dados das máquinas.
+- **Interface Web Intuitiva:** Visualização simples e acessível em qualquer navegador.
+- **Escalabilidade:** Suporte para múltiplas máquinas CNC conectadas ao mesmo sistema.
 
-## **Contribuindo*
+## **Contribuindo**
 Sinta-se à vontade para contribuir com este projeto. Envie pull requests ou abra issues para discutir melhorias e novas funcionalidades.
 
-## **Licença*
+## **Licença**
 Este projeto está licenciado sob a MIT License.
 
 ## **Contato*
